@@ -8,3 +8,8 @@
 	url = https://github.com/vijaybarve/bdvis
 	shallow = true
 	registered = true
+[submodule "taxotools"]
+	path = taxotools
+	url = https://github.com/vijaybarve/taxotools
+	shallow = true
+	registered = true

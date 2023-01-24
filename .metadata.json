@@ -2,5 +2,9 @@
   {
     "package": "bdvis",
     "oncran": true
+  },
+  {
+    "package": "taxotools",
+    "oncran": true
   }
 ]
