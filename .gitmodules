@@ -5,6 +5,3 @@
 [submodule "bdvis"]
 	path = bdvis
 	url = https://github.com/vijaybarve/bdvis
-[submodule "taxotools"]
-	path = taxotools
-	url = https://github.com/vijaybarve/taxotools
